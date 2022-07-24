@@ -127,7 +127,7 @@ namespace OrbWalker
             Console.WriteLine($"按住{(VirtualKeyCode)CurrentSettings.ActivationKeyEnemies}激活走砍A人\n");
             Console.WriteLine($"对应热键可以在软件目录settings文件夹更改，只需更改键码对应键值");
             CheckLeagueProcess();
-            
+
             Console.ReadLine();
         }
 
