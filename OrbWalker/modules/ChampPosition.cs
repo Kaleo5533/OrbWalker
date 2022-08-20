@@ -8,7 +8,7 @@ namespace OrbWalker.modules
 {
     class ChampPosition
     {
-        private static readonly Color RGB_ENEMY_LEVEL_NUMBER_COLOR = Color.FromArgb(0xFF, 0xEB, 0xEB); // 等级颜色
+        private static readonly Color RGB_ENEMY_LEVEL_NUMBER_COLOR = Color.FromArgb(0xFD, 0xE9, 0xE9); // 0xFF, 0xEB, 0xEB // 等级颜色
         private static Point[] Searched;
         private static Rectangle FOV;
 
