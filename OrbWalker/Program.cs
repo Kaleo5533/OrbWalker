@@ -47,7 +47,7 @@ namespace OrbWalker
         private static string RawChampionName = string.Empty;
         private static string online = string.Empty;
         private static string times = string.Empty;
-        private static string version = "v12.13";
+        private static string version = "v12.15";
         private static string Version = string.Empty;
 
         private static double ClientAttackSpeed = 0.625;
